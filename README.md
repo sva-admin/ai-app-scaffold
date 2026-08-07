@@ -1,3 +1,5 @@
+<p align="center"><a href="https://loop.sv-academy.org"><img src="https://loop.sv-academy.org/apple-icon.png" width="88" alt="Silicon Valley Academy"/></a></p>
+
 # ai-app-scaffold
 
 Scaffold a runnable AI application from a one-line idea, choosing the right pattern (RAG, agent, workflow, or chatbot) and stack, then writing real working code instead of TODO placeholders.
